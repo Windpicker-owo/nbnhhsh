@@ -1,0 +1,25 @@
+{
+    "name": "nbnhhsh",
+    "version": "1.0.0",
+    "description": "能不能好好说话 - 首字母缩写翻译工具，通过调用 nbnhhsh API 查询网络缩写的含义",
+    "author": "MoFox Team",
+    "dependencies": {
+        "plugins": [],
+        "components": []
+    },
+    "categories": ["tool"],
+    "tags": ["abbreviation", "translation", "nbnhhsh", "tool"],
+    "include": [
+        {
+            "component_type": "tool",
+            "component_name": "nbnhhsh",
+            "dependencies": []
+        }
+    ],
+    "entry_point": "plugin.py",
+    "min_core_version": "1.0.0",
+    "python_dependencies": [
+        "httpx>=0.28.1"
+    ],
+    "dependencies_required": true
+}
