@@ -1,5 +1,6 @@
 {
     "name": "nbnhhsh",
+    "display_name": "能不能好好说话!",
     "version": "1.0.0",
     "description": "能不能好好说话 - 首字母缩写翻译工具，通过调用 nbnhhsh API 查询网络缩写的含义",
     "author": "MoFox Team",
